@@ -57,7 +57,9 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 6. Cartel de zona video vigilada:
    
    - Para cumplir con la Ley Orgánica de Protección de Datos (LOPD) se debe instalar un cartel que muestra que la zona está siendo           grabada. Es preferible incluir varios carteles en las zonas donde el sistema de CCTV tenga alcance.
-  
+
+      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/b1922069-993d-48e9-9282-7e1ccf01e4ea)
+
 7. Conectores: Usamos dos tipos de conectores.
    -  Video :
 
@@ -71,4 +73,4 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
    
     ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/79deb5f6-3dc6-4a59-accb-d676aabe454f)
 
-9. 
+8. 
