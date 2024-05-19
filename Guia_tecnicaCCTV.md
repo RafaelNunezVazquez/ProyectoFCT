@@ -21,12 +21,15 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 3. Camaras. Generalmente:
 
    - bullet:
+     
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/47799f03-d609-4fa7-88f7-609d3a010ffb)
      
    - domo:
+     
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/a8317b7a-e5cc-44f0-80b6-f905961e6474)
      
    - IP:
+     
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/5566fdb2-29e3-4931-82fc-0c2ea582ac72)
 
 4. Fuentes de alimentación para las cámaras CCTV.
