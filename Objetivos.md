@@ -3,10 +3,10 @@ Aqui voy a mostrar brevemente los objetivos de este proyecto.
 **Indice de objetivos**
 Objetivos | Breve descripción 
 ---- | ----
-[](Guia_tecnicaCCTV.md) Guia técnica CCTV | Caracteristicas y funciones generales de dispositivos empleados en CCTV 
-[](Guia_instalacionCCTV.md) Guia instalación CCTV | Instalacion de CCTV.
-[Guia técnica NAS](Guia_tecnicaNAS.md) Guia técnica NAS | Caracteristicas y funciones generales del dispositivo NAS.
-[Guía instalación NAS](Guía_instalacionNAS.md) Guía instalación NAS | Instalacion de almacenamiento compartido usando NAS.
+[Guia técnica CCTV](Guia_tecnicaCCTV.md) | Caracteristicas y funciones generales de dispositivos empleados en CCTV 
+[Guia instalación CCTV](Guia_instalacionCCTV.md) | Instalacion de CCTV.
+[Guia técnica NAS](Guia_tecnicaNAS.md) | Caracteristicas y funciones generales del dispositivo NAS.
+[Guía instalación NAS](Guía_instalacionNAS.md) | Instalacion de almacenamiento compartido usando NAS.
 
 ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/f4da35b9-5f55-4779-ad87-4cb62e03b6c7)
 
