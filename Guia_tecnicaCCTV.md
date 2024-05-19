@@ -22,19 +22,28 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
    - bullet:
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/47799f03-d609-4fa7-88f7-609d3a010ffb)
+     
    - domo:
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/a8317b7a-e5cc-44f0-80b6-f905961e6474)
+     
    - IP:
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/5566fdb2-29e3-4931-82fc-0c2ea582ac72)
 
 4. Fuentes de alimentación para las cámaras CCTV.
    
-     - Una fuente de alimentación por cámara: esto requiere tener un enchufe cerca de cada una.
+     - Una fuente de alimentación por cámara: esto requiere empalmar corriente que sea activa 24 horas.
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/b2b4543f-4b72-4893-8b6b-cbb23dda0767)
-     - Una gran fuente de alimentación junto al grabador: esto requiere más cableado a cambio de no necesitar tantos enchufes.
+
+     - Una gran fuente de alimentación junto al grabador: centraliza el suministro de energía en un solo lugar.
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/3d97b00c-5c67-4342-9e1a-b1f065c3c18e)
 
-5. Cables. Podremos conectar todo el sistema de cámaras mediante dos tipos de cables:
+5. Cables.
 
-Cable coaxial de dos hilos: el clásico. Válido si no se necesitan cámaras IP.
-Cable UTP: cada vez más usado, válido en cualquier situación.
+   - Para conectar el sistema de video de las cámaras usamos dos tipos de cables:
+   -       Cable coaxial de dos hilos: el clásico. Válido si no se necesitan cámaras IP.
+   -       Cable UTP: cada vez más usado, válido en cualquier situación.
+   - Para conectar la corriente usamos:
+   -       Cable de corriente: sacamos corriente de un punto cercano a la camara, empalmamos fuente alimentacion.
+   -       Cable UTP: con un par de hilos del cable UTP llevamos la corriente desde la fuente de rejilla hasta la cámara.
+  
+6. 
