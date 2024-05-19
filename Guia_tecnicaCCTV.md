@@ -1,4 +1,4 @@
-#Esta guía nos orientará en la materia de circuito cerrado de televison o CCTV.
+# Esta guía nos orientará en la materia de circuito cerrado de televison o CCTV.
 
 ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/22212e16-d10b-4740-87e7-2f0cdcad309c)
 
@@ -10,7 +10,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
 ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ccbe801f-3dc8-4620-b940-9597b13feaa1)
 
-##Como forma de introduccion voy a citar los componentes necesarios para un CCTV, luego entraré mas en detalle sobre cada uno.
+## Como forma de introduccion voy a citar los componentes necesarios para un CCTV, luego entraré mas en detalle sobre cada uno.
 
 1. Grabador DVR,XVR o NVR
    -![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
