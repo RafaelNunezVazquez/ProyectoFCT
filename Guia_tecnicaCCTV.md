@@ -87,7 +87,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 - XVR: (eXtended Video Recorder) es una grabadora híbrida que admite tanto cámaras analógicas como cámaras IP.
 
               Combina las funcionalidades de DVR y NVR, permitiendo la conexión de cámaras analógicas y cámaras IP.
-              Puede recibir señales analógicas y convertirlas a digital, así como recibir flujos de datos digitales de cámaras IP a                  través de una red.
+              Puede recibir señales analógicas y convertirlas a digital, así como recibir flujos de datos digitales de cámaras IP a través de una red.
               Ofrece flexibilidad en la configuración de sistemas de videovigilancia híbridos, utilizando cables coaxiales para                      cámaras analógicas y cables Ethernet para cámaras IP.
 
     ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
@@ -110,7 +110,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
             Usos comunes:
                  Interiores:
-                             Tiendas y comercios: Para monitorear áreas de venta y prevenir robos, sacar grabaciones en caso                                     de robo.
+                             Tiendas y comercios: Para monitorear áreas de venta y prevenir robos, sacar grabaciones en caso de robo.
                              Bancos y cajeros automáticos: Para seguridad adicional y monitoreo de actividades sospechosas.
                              Oficinas: Para vigilancia de pasillos, entradas y áreas comunes.
 
