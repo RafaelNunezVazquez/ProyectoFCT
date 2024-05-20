@@ -29,12 +29,37 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
  
 2. CCTV Digital o IP:
 
+            Utiliza cámaras IP (Internet Protocol) que transmiten datos de video digitalmente a través de una red (LAN/WAN).
 
+            La calidad de video puede ser muy alta, con soporte para resoluciones como 1080p, 4K y más, dependiendo de las cámaras IP              utilizadas.
+   
+            Se graba en un NVR (Network Video Recorder) o servidores de red
 
+            Usos comunes:
+            Instalaciones grandes y sofisticadas con necesidades avanzadas de videovigilancia.
+            Cuando las localizaciones de las cámaras estén dispersas y lejos del centro de control a distancias habitualmente mayores              de 100 metros.
+
+   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/d9525723-f181-4d90-abd1-e23131bee3e4)
+
+   
 3. CCTV híbridos:
 
+            Es posible considerar un sistema hibrido al realizar la migración de un sistema CCTV análogo a un sistema de seguridad IP,             utilizando la misma infraestructura en cableado coaxial existente para transmitir video digital desde cámaras IP.
+            La migracion se hace más facil usando conectores como LR1002 de PoE a BNC que podemos ver en la imagen.   
 
+   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/de8f0cf7-041d-4498-9041-5757f6f9c151)
 
+   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/710c62c5-4c13-4675-9040-32617dbb6649)
+
+            Utiliza un XVR (eXtended Video Recorder) o un DVR/NVR híbrido que puede manejar ambas señales analógicas y digitales.
+
+            Combina cámaras analógicas y cámaras IP en un mismo sistema.
+
+   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/859a5b2c-c81e-4341-961e-a4afa28fc496)
+
+            Usos comunes:
+               Instalaciones que están migrando de sistemas analógicos a digitales.
+               Lugares donde se quiere aprovechar la infraestructura existente mientras se agregan cámaras IP.
 
 ## Como forma de introduccion voy a citar los componentes necesarios para un CCTV, luego entraré mas en detalle sobre cada uno.
 
@@ -51,14 +76,18 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
 - NVR: (Network Video Recorder) se utiliza con cámaras IP (cámaras de red).
 
-        Graba video desde cámaras IP que envían datos de video a través de una red (LAN/WAN).
-
-        Las cámaras IP digitalizan el video y lo transmiten a través de una red Ethernet. La NVR recibe estos flujos de datos                  digitales y los almacena en un disco duro. 
+            Graba video desde cámaras IP que envían datos de video a través de una red (LAN/WAN).
+            Utiliza cables Ethernet para la transmisión de datos y, si es compatible con PoE (Power over Ethernet), también puede                  alimentar las cámaras a través del mismo cable.         
+            Las cámaras IP digitalizan el video y lo transmiten a través de una red Ethernet. La NVR recibe estos flujos de datos                  digitales y los almacena en un disco duro. 
 
   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/0b620de7-aae3-49ea-9b01-c48351b553ca)
       
 
-- XVR: 
+- XVR: (eXtended Video Recorder) es una grabadora híbrida que admite tanto cámaras analógicas como cámaras IP.
+
+              Combina las funcionalidades de DVR y NVR, permitiendo la conexión de cámaras analógicas y cámaras IP.
+              Puede recibir señales analógicas y convertirlas a digital, así como recibir flujos de datos digitales de cámaras IP a                  través de una red.
+              Ofrece flexibilidad en la configuración de sistemas de videovigilancia híbridos, utilizando cables coaxiales para                      cámaras analógicas y cables Ethernet para cámaras IP.
 
     ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
 
