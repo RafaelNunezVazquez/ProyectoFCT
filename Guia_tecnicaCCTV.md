@@ -109,11 +109,12 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
                  Menos visibles y más estéticas, se mezclan fácilmente con el entorno.
      
    -             Usos comunes:
-   -             Interiores:
-     
-   -                 Bancos y cajeros automáticos: Para seguridad adicional y monitoreo de actividades sospechosas.    
-   -                 Oficinas: Para vigilancia de pasillos, entradas y áreas comunes.       
-   -                 Tiendas y comercios: Para monitorear áreas de venta y prevenir robos, sacar grabaciones en caso de robo.
+   -                     Interiores:
+   -                         Tiendas y comercios: Para monitorear áreas de venta y prevenir robos, sacar grabaciones en caso                                     de robo.
+   -                         Bancos y cajeros automáticos: Para seguridad adicional y monitoreo de actividades sospechosas.
+   -                                     
+   -                                          
+
                              
                              
                  
