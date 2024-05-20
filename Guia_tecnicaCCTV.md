@@ -37,7 +37,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
             Usos comunes:
             Instalaciones grandes y sofisticadas con necesidades avanzadas de videovigilancia.
-            Cuando las localizaciones de las cámaras estén dispersas y lejos del centro de control a distancias habitualmente mayores              de 100 metros.
+            Cuando las localizaciones de las cámaras estén dispersas y lejos del centro de control a distancias habitualmente mayores  de 100 metros.
 
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/d9525723-f181-4d90-abd1-e23131bee3e4)
 
