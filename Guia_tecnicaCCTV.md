@@ -103,7 +103,9 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
                  * Dias de retencion deseados.
                  * Compresion de video ej: H264,H265...
 
-            Pasos para calcular el almacenamiento existe un procedimiento pero las distribuidoras tienen su propia calculadora diseñadapara facilitar los calculos. Aqui dejo el enlace a la pagina web de Dahua un gran distribuidor.
+            Pasos para calcular el almacenamiento existe un procedimiento pero las distribuidoras tienen su propia calculadora diseñada para facilitar los calculos. 
+
+Aqui dejo el enlace a la calculadora de almacenamiento de la pagina web de Dahua un gran distribuidor.
 
 https://us.dahuasecurity.com/support/software-downloads-and-tools/capacity-calculator/
 
