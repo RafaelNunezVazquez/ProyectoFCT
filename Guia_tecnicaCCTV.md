@@ -78,8 +78,8 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 - NVR: (Network Video Recorder) se utiliza con cámaras IP (cámaras de red).
 
             Graba video desde cámaras IP que envían datos de video a través de una red (LAN/WAN).
-            Utiliza cables Ethernet para la transmisión de datos y, si es compatible con PoE (Power over Ethernet), también puede            alimentar las cámaras a través del mismo cable.         
-            Las cámaras IP digitalizan el video y lo transmiten a través de una red Ethernet. La NVR recibe estos flujos de datos            digitales y los almacena en un disco duro. 
+            Utiliza cables Ethernet para la transmisión de datos y, si es compatible con PoE (Power over Ethernet), también puede alimentar las cámaras a través del mismo cable.            
+            Las cámaras IP digitalizan el video y lo transmiten a través de una red Ethernet. La NVR recibe estos flujos de datos digitales y los almacena en un disco duro.            
 
   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/0b620de7-aae3-49ea-9b01-c48351b553ca)
       
