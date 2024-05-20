@@ -12,7 +12,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
 ## Tipos de CCTV.
 
-1. CCTV analogico:
+### 1. CCTV analogico:
 
             Generalmente tiene resoluciones más bajas comparadas con los sistemas digitales (SD a HD).
       
@@ -27,7 +27,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/a8fe9b7c-77a4-4261-b9a1-0758b0417089)
 
  
-2. CCTV Digital o IP:
+### 2. CCTV Digital o IP:
 
             Utiliza cámaras IP (Internet Protocol) que transmiten datos de video digitalmente a través de una red (LAN/WAN).
 
@@ -42,7 +42,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/d9525723-f181-4d90-abd1-e23131bee3e4)
 
    
-3. CCTV híbridos:
+### 3. CCTV híbridos:
 
             Es posible considerar un sistema hibrido al realizar la migración de un sistema CCTV análogo a un sistema de seguridad IP
                utilizando la misma infraestructura en cableado coaxial existente para transmitir video digital desde cámaras IP.
@@ -64,7 +64,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
 ## Componentes necesarios para un CCTV.
 
-1. Grabador DVR,XVR o NVR:
+### 1. Grabador DVR,XVR o NVR:
 
 - DVR: (Digital Video Recorder) se utiliza principalmente con cámaras analógicas.
 
@@ -92,17 +92,17 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
     ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
 
-2.  Disco Duro: Su tamaño determina la cantidad de tiempo que la grabadora podrá grabar dependiendo de varios factores, formato de imagen, cantidad de camaras, etc..
+### 2.  Disco Duro: Su tamaño determina la cantidad de tiempo que la grabadora podrá grabar dependiendo de varios factores, formato de imagen, cantidad de camaras, etc..
 
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/c0be8cd4-3c68-48e6-9292-53753d606a05)
 
-3. Camaras. Generalmente se utilizan estos.
+### 3. Camaras. Generalmente se utilizan estos.
 
    - bullet:
      
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/47799f03-d609-4fa7-88f7-609d3a010ffb)
      
-   - domo:
+   - DomoCompactas y de forma semiesférica, se instalan generalmente en techos o paredes.
      
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/a8317b7a-e5cc-44f0-80b6-f905961e6474)
      
@@ -110,7 +110,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
      
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/5566fdb2-29e3-4931-82fc-0c2ea582ac72)
      
-4. Fuentes de alimentación para las cámaras CCTV:
+### 4. Fuentes de alimentación para las cámaras CCTV:
 
          - Una fuente de alimentación por cámara: esto requiere empalmar corriente que sea activa 24 horas.
        
@@ -120,7 +120,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
        
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/3d97b00c-5c67-4342-9e1a-b1f065c3c18e)
 
-5. Cables. Es importante que sea el adecuado dependiendo de la situación.
+### 5. Cables. Es importante que sea el adecuado dependiendo de la situación.
 
    - Para conectar el sistema de video de las cámaras usamos dos tipos de cables:
      
@@ -137,13 +137,13 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/6288cab6-07f4-4b15-bb81-4151d05bea26)
 
-5. Cartel de zona video vigilada:
+### 6. Cartel de zona video vigilada:
    
    - Para cumplir con la Ley Orgánica de Protección de Datos (LOPD) se debe instalar un cartel que muestra que la zona está siendo           grabada. Es preferible incluir varios carteles en las zonas donde el sistema de CCTV tenga alcance.
 
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/b1922069-993d-48e9-9282-7e1ccf01e4ea)
 
-6. Conectores: Usamos dos tipos de conectores.
+### 7. Conectores: Usamos dos tipos de conectores.
 
    -  Video :
 
