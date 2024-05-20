@@ -12,11 +12,13 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
 ## Como forma de introduccion voy a citar los componentes necesarios para un CCTV, luego entraré mas en detalle sobre cada uno.
 
-1. Grabador DVR,XVR o NVR
-   -![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
+1. Grabador DVR,XVR o NVR:
 
-2. Disco Duro
-   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/c0be8cd4-3c68-48e6-9292-53753d606a05)
+    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
+
+2.  Disco Duro:
+
+   [image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/c0be8cd4-3c68-48e6-9292-53753d606a05)
 
 3. Camaras. Generalmente:
 
@@ -31,8 +33,8 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
    - IP:
      
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/5566fdb2-29e3-4931-82fc-0c2ea582ac72)
-
-4. Fuentes de alimentación para las cámaras CCTV.
+     
+4. Fuentes de alimentación para las cámaras CCTV:
 
          - Una fuente de alimentación por cámara: esto requiere empalmar corriente que sea activa 24 horas.
        
@@ -59,7 +61,6 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/6288cab6-07f4-4b15-bb81-4151d05bea26)
 
-  
 5. Cartel de zona video vigilada:
    
    - Para cumplir con la Ley Orgánica de Protección de Datos (LOPD) se debe instalar un cartel que muestra que la zona está siendo           grabada. Es preferible incluir varios carteles en las zonas donde el sistema de CCTV tenga alcance.
@@ -67,6 +68,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/b1922069-993d-48e9-9282-7e1ccf01e4ea)
 
 6. Conectores: Usamos dos tipos de conectores.
+
    -  Video :
 
    -       Cable BNC o video balum: ()
@@ -84,3 +86,6 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/73c4bccf-63f6-4195-9a40-0fca262ee892)
 
 7. 
+  
+
+
