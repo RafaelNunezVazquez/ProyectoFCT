@@ -31,11 +31,11 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
             Utiliza cámaras IP (Internet Protocol) que transmiten datos de video digitalmente a través de una red (LAN/WAN).
 
-            La calidad de video puede ser muy alta, con soporte para resoluciones como 1080p, 4K y más, dependiendo de las cámaras IP              utilizadas.
-   
+            La calidad de video puede ser muy alta, con soporte para resoluciones como 1080p, 4K y más, dependiendo de las cámaras IP utilizadas.   
             Se graba en un NVR (Network Video Recorder) o servidores de red
 
             Usos comunes:
+           
             Instalaciones grandes y sofisticadas con necesidades avanzadas de videovigilancia.
             Cuando las localizaciones de las cámaras estén dispersas y lejos del centro de control a distancias habitualmente mayores  de 100 metros.
 
@@ -45,7 +45,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 ### 3. CCTV híbridos:
 
             Es posible considerar un sistema hibrido al realizar la migración de un sistema CCTV análogo a un sistema de seguridad IP
-               utilizando la misma infraestructura en cableado coaxial existente para transmitir video digital desde cámaras IP.
+            Utilizando la misma infraestructura en cableado coaxial existente para transmitir video digital desde cámaras IP.
             La migracion se hace más facil usando conectores como LR1002 de PoE a BNC que podemos ver en la imagen.   
 
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/de8f0cf7-041d-4498-9041-5757f6f9c151)
@@ -68,7 +68,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
 - DVR: (Digital Video Recorder) se utiliza principalmente con cámaras analógicas.
 
-      Las cámaras analógicas envían señales de video a la DVR, que convierte estas señales analógicas a formato digital y luego las          almacena en un disco duro.
+      Las cámaras analógicas envían señales de video a la DVR, que convierte estas señales analógicas a formato digital y luego las  almacena en un disco duro.
 
       Requiere cables coaxiales o UTP para la transmisión de video y cables de alimentación para cada cámara.
 
@@ -88,7 +88,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
               Combina las funcionalidades de DVR y NVR, permitiendo la conexión de cámaras analógicas y cámaras IP.
               Puede recibir señales analógicas y convertirlas a digital, así como recibir flujos de datos digitales de cámaras IP a través de una red.
-              Ofrece flexibilidad en la configuración de sistemas de videovigilancia híbridos, utilizando cables coaxiales para                      cámaras analógicas y cables Ethernet para cámaras IP.
+              Ofrece flexibilidad en la configuración de sistemas de videovigilancia híbridos, utilizando cables coaxiales para cámaras analógicas y cables Ethernet para cámaras IP.
 
     ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
 
@@ -99,7 +99,22 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 ### 3. Camaras. Generalmente se utilizan estos.
 
    - bullet:
-     
+
+            Caracteristicas:
+
+                * Forma: Tienen una carcasa cilíndrica, lo que facilita el apuntamiento preciso hacia áreas específicas.
+                * Montaje: Normalmente se montan en paredes o postes
+                * Visibilidad: Son más visibles y disuasorias, en su  contra, se ve haca donde apunta facilitando a vandalos o ladrones.
+                * Alcance: Generalmente tienen lentes de largo alcance, ideales para distancias mayores.
+
+            Usos comunes:
+                             
+                 Interiores:
+                             
+                 Exteriores:
+                            * Son ideales para monitorear áreas exteriores como estacionamientos, entradas y perímetros 
+                            * Enfoque en Áreas Específicas: Perfectas para vigilar entradas, portones y áreas específicas donde se necesita un enfoque dirigido y claro. 
+
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/47799f03-d609-4fa7-88f7-609d3a010ffb)
      
    - Domo:
