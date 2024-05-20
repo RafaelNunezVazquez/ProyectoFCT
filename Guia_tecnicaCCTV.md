@@ -44,7 +44,8 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
    
 3. CCTV híbridos:
 
-            Es posible considerar un sistema hibrido al realizar la migración de un sistema CCTV análogo a un sistema de seguridad IP,             utilizando la misma infraestructura en cableado coaxial existente para transmitir video digital desde cámaras IP.
+            Es posible considerar un sistema hibrido al realizar la migración de un sistema CCTV análogo a un sistema de seguridad IP
+               utilizando la misma infraestructura en cableado coaxial existente para transmitir video digital desde cámaras IP.
             La migracion se hace más facil usando conectores como LR1002 de PoE a BNC que podemos ver en la imagen.   
 
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/de8f0cf7-041d-4498-9041-5757f6f9c151)
