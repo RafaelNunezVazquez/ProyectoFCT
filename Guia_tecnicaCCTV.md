@@ -14,53 +14,55 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
 ### 1. CCTV analogico:
 
-            Generalmente tiene resoluciones más bajas comparadas con los sistemas digitales (SD a HD).
+            * Generalmente tiene resoluciones más bajas comparadas con los sistemas digitales (SD a HD).
       
-            Se graba en un DVR (Digital Video Recorder), que convierte la señal analógica a digital para almacenamiento.
+            * Se graba en un DVR (Digital Video Recorder), que convierte la señal analógica a digital para almacenamiento.
 
-            Utiliza cámaras analógicas que transmiten señales de video a través de cables coaxiales.
+            * Utiliza cámaras analógicas que transmiten señales de video a través de cables coaxiales.
 
-            Usos comunes:
-            Instalaciones pequeñas y medianas con requisitos básicos de videovigilancia.
-            Instalaciones antiguas donde la infraestructura de cables coaxiales ya está instalada.
+            * Usos comunes:
+                        
+                        Instalaciones pequeñas y medianas con requisitos básicos de videovigilancia.
+                        Instalaciones antiguas donde la infraestructura de cables coaxiales ya está instalada.
 
 ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/a8fe9b7c-77a4-4261-b9a1-0758b0417089)
 
  
 ### 2. CCTV Digital o IP:
 
-            Utiliza cámaras IP (Internet Protocol) que transmiten datos de video digitalmente a través de una red (LAN/WAN).
+            * Utiliza cámaras IP (Internet Protocol) que transmiten datos de video digitalmente a través de una red (LAN/WAN).
 
-            La calidad de video puede ser muy alta, con soporte para resoluciones como 1080p, 4K y más, dependiendo de las cámaras IP utilizadas.   
-            Se graba en un NVR (Network Video Recorder) o servidores de red
+            * La calidad de video puede ser muy alta, con soporte para resoluciones como 1080p, 4K y más, dependiendo de las cámaras IP utilizadas.   
+            * Se graba en un NVR (Network Video Recorder) o servidores de red
 
-            Usos comunes:
+            * Usos comunes:
            
-            Instalaciones grandes y sofisticadas con necesidades avanzadas de videovigilancia.
-            Cuando las localizaciones de las cámaras estén dispersas y lejos del centro de control a distancias habitualmente mayores  de 100 metros.
+            * Instalaciones grandes y sofisticadas con necesidades avanzadas de videovigilancia.
+            * Cuando las localizaciones de las cámaras estén dispersas y lejos del centro de control a distancias habitualmente mayores  de 100 metros.
 
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/d9525723-f181-4d90-abd1-e23131bee3e4)
 
    
 ### 3. CCTV híbridos:
 
-            Es posible considerar un sistema hibrido al realizar la migración de un sistema CCTV análogo a un sistema de seguridad IP
-            Utilizando la misma infraestructura en cableado coaxial existente para transmitir video digital desde cámaras IP.
-            La migracion se hace más facil usando conectores como LR1002 de PoE a BNC que podemos ver en la imagen.   
+            * Es posible considerar un sistema hibrido al realizar la migración de un sistema CCTV análogo a un sistema de seguridad IP
 
-   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/de8f0cf7-041d-4498-9041-5757f6f9c151)
+            * Utilizando la misma infraestructura en cableado coaxial existente para transmitir video digital desde cámaras IP.
+            
+            * La migracion se hace más facil usando conectores como LR1002 de PoE a BNC que podemos ver en la imagen.   
 
-   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/710c62c5-4c13-4675-9040-32617dbb6649)
+            * Utiliza un XVR (eXtended Video Recorder) o un DVR/NVR híbrido que puede manejar ambas señales analógicas y digitales.
 
-            Utiliza un XVR (eXtended Video Recorder) o un DVR/NVR híbrido que puede manejar ambas señales analógicas y digitales.
+            * Combina cámaras analógicas y cámaras IP en un mismo sistema.
 
-            Combina cámaras analógicas y cámaras IP en un mismo sistema.
+            * Usos comunes:
+               
+               Instalaciones que están migrando de sistemas analógicos a digitales.
+               Lugares donde se quiere aprovechar la infraestructura existente mientras se agregan cámaras IP.
 
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/859a5b2c-c81e-4341-961e-a4afa28fc496)
 
-            Usos comunes:
-               Instalaciones que están migrando de sistemas analógicos a digitales.
-               Lugares donde se quiere aprovechar la infraestructura existente mientras se agregan cámaras IP.
+   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/710c62c5-4c13-4675-9040-32617dbb6649)
 
 ## Componentes necesarios para un CCTV.
 
@@ -93,6 +95,17 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
     ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
 
 ### 2.  Disco Duro: Su tamaño determina la cantidad de tiempo que la grabadora podrá grabar dependiendo de varios factores, formato de imagen, cantidad de camaras, etc..
+
+            Por ello cuando elegimos el disco duro debeos tener en cuenta los siguientes factores:
+                 * Numero de canales en grabador (camaras).
+                 * Resolucion de las camaras.
+                 * Tasa de bits (bitrate).
+                 * Dias de retencion deseados.
+                 * Compresion de video ej: H264,H265...
+
+            Pasos para calcular el almacenamiento existe un procedimiento pero las distribuidoras tienen su propia calculadora diseñadapara facilitar los calculos. Aqui dejo el enlace a la pagina web de Dahua un gran distribuidor.
+
+https://us.dahuasecurity.com/support/software-downloads-and-tools/capacity-calculator/
 
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/c0be8cd4-3c68-48e6-9292-53753d606a05)
 
