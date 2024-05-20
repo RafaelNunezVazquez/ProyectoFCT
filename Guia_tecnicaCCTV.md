@@ -62,7 +62,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
                Instalaciones que están migrando de sistemas analógicos a digitales.
                Lugares donde se quiere aprovechar la infraestructura existente mientras se agregan cámaras IP.
 
-## Como forma de introduccion voy a citar los componentes necesarios para un CCTV, luego entraré mas en detalle sobre cada uno.
+## Componentes necesarios para un CCTV.
 
 1. Grabador DVR,XVR o NVR:
 
@@ -92,11 +92,11 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
     ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
 
-2.  Disco Duro: 
+2.  Disco Duro: Su tamaño determina la cantidad de tiempo que la grabadora podrá grabar dependiendo de varios factores, formato de imagen, cantidad de camaras, etc..
 
    ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/c0be8cd4-3c68-48e6-9292-53753d606a05)
 
-3. Camaras. Generalmente:
+3. Camaras. Generalmente se utilizan estos.
 
    - bullet:
      
