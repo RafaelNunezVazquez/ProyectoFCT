@@ -14,6 +14,21 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
 1. Grabador DVR,XVR o NVR:
 
+- DVR: (Digital Video Recorder) se utiliza principalmente con cámaras analógicas.
+
+      Las cámaras analógicas envían señales de video a la DVR, que convierte estas señales analógicas a formato digital y luego las           almacena en un disco duro.
+
+      Requiere cables coaxiales o UTP para la transmisión de video y cables de alimentación para cada cámara.
+
+      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ca076526-fe18-436a-bb47-c956474737a2)
+
+
+- NVR: (Network Video Recorder) se utiliza con cámaras IP (cámaras de red).
+
+  
+
+- XVR: 
+
     ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
 
 2.  Disco Duro: 
