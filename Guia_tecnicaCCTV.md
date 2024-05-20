@@ -157,6 +157,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/79deb5f6-3dc6-4a59-accb-d676aabe454f)
    
-   -      Ficha empalme: Estas las usamos cuando la corriente viene tirada por cable desde AC corriente alterna 220 y fuente alimentacion cargador
+                 Ficha empalme: Estas las usamos cuando la corriente viene tirada por cable desde AC corriente alterna 220 y fuente
+                 alimentacion cargador
 
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/73c4bccf-63f6-4195-9a40-0fca262ee892)
