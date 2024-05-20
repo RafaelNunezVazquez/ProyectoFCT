@@ -102,7 +102,21 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
      
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/47799f03-d609-4fa7-88f7-609d3a010ffb)
      
-   - DomoCompactas y de forma semiesférica, se instalan generalmente en techos o paredes.
+   - Domo:
+     
+   -             Muchas son resistentes a vandalismo (vandal-proof) y condiciones climáticas (weatherproof).       
+                 Compactas y de forma semiesférica, se instalan generalmente en techos o paredes.
+                 Menos visibles y más estéticas, se mezclan fácilmente con el entorno.
+     
+   -             Usos comunes:
+   -             Interiores:
+     
+   -                 Bancos y cajeros automáticos: Para seguridad adicional y monitoreo de actividades sospechosas.    
+   -                 Oficinas: Para vigilancia de pasillos, entradas y áreas comunes.       
+   -                 Tiendas y comercios: Para monitorear áreas de venta y prevenir robos, sacar grabaciones en caso de robo.
+                             
+                             
+                 
      
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/a8317b7a-e5cc-44f0-80b6-f905961e6474)
      
