@@ -10,22 +10,53 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
 ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ccbe801f-3dc8-4620-b940-9597b13feaa1)
 
+## Tipos de CCTV.
+
+1. CCTV analogico:
+
+            Generalmente tiene resoluciones más bajas comparadas con los sistemas digitales (SD a HD).
+      
+            Se graba en un DVR (Digital Video Recorder), que convierte la señal analógica a digital para almacenamiento.
+
+            Utiliza cámaras analógicas que transmiten señales de video a través de cables coaxiales.
+
+            Usos comunes:
+            Instalaciones pequeñas y medianas con requisitos básicos de videovigilancia.
+            Instalaciones antiguas donde la infraestructura de cables coaxiales ya está instalada.
+
+![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/a8fe9b7c-77a4-4261-b9a1-0758b0417089)
+
+ 
+2. CCTV Digital o IP:
+
+
+
+3. CCTV híbridos:
+
+
+
+
 ## Como forma de introduccion voy a citar los componentes necesarios para un CCTV, luego entraré mas en detalle sobre cada uno.
 
 1. Grabador DVR,XVR o NVR:
 
 - DVR: (Digital Video Recorder) se utiliza principalmente con cámaras analógicas.
 
-      Las cámaras analógicas envían señales de video a la DVR, que convierte estas señales analógicas a formato digital y luego las           almacena en un disco duro.
+      Las cámaras analógicas envían señales de video a la DVR, que convierte estas señales analógicas a formato digital y luego las          almacena en un disco duro.
 
       Requiere cables coaxiales o UTP para la transmisión de video y cables de alimentación para cada cámara.
 
-      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ca076526-fe18-436a-bb47-c956474737a2)
+  ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ca076526-fe18-436a-bb47-c956474737a2)
 
 
 - NVR: (Network Video Recorder) se utiliza con cámaras IP (cámaras de red).
 
-  
+        Graba video desde cámaras IP que envían datos de video a través de una red (LAN/WAN).
+
+        Las cámaras IP digitalizan el video y lo transmiten a través de una red Ethernet. La NVR recibe estos flujos de datos                  digitales y los almacena en un disco duro. 
+
+  ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/0b620de7-aae3-49ea-9b01-c48351b553ca)
+      
 
 - XVR: 
 
