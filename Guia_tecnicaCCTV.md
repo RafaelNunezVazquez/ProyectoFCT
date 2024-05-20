@@ -16,9 +16,9 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
     ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/ae0c25a4-a02d-4b90-8c55-22e1fda03b54)
 
-2.  Disco Duro:
+2.  Disco Duro: 
 
-   [image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/c0be8cd4-3c68-48e6-9292-53753d606a05)
+   ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/c0be8cd4-3c68-48e6-9292-53753d606a05)
 
 3. Camaras. Generalmente:
 
@@ -84,8 +84,3 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
    -      Ficha empalme: Estas las usamos cuando la corriente viene tirada por cable desde AC corriente alterna 220 y fuente alimentacion cargador
 
       ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/73c4bccf-63f6-4195-9a40-0fca262ee892)
-
-7. 
-  
-
-
