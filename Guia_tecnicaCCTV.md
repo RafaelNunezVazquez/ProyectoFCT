@@ -20,7 +20,7 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
             * Utiliza cámaras analógicas que transmiten señales de video a través de cables coaxiales.
 
-            * Los formatos de video analógico son varios: HDCVI, HDTVI, AHD, en nuestra nota sobre los formatos de transmisión de video análogo se amplía información relacionada con ello.
+            * Los formatos de video analógico son varios: HDCVI, HDTVI, AHD.
 
             * Usos comunes:
                         
