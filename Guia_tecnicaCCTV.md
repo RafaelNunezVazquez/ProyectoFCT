@@ -156,8 +156,17 @@ https://us.dahuasecurity.com/support/software-downloads-and-tools/capacity-calcu
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/a8317b7a-e5cc-44f0-80b6-f905961e6474)
      
    - IP:
-     
+
+           * Ofrecen resoluciones desde 720p (HD) hasta 4K y superiores, proporcionando imágenes claras y detalladas.
+           * Se conectan a una red IP a través de cables Ethernet o de forma inalámbrica mediante Wi-Fi.
+           * Ofrecen imágenes de alta resolución y calidad superior en comparación con las cámaras analógicas.
+           * Facilitan la adición de nuevas cámaras sin necesidad de cambiar la infraestructura de cableado existente.
+           * Incorporan análisis de video y funciones inteligentes que mejoran la eficacia de la vigilancia y la seguridad.
+           * Almacenamiento en tarjetas SD integradas, en dispositivos de almacenamiento en red (NAS), o en servidores en la nube.
+           * Autenticación y autorización para acceso seguro a la cámara.
+           
      ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/5566fdb2-29e3-4931-82fc-0c2ea582ac72)
+
      
 ### 4. Fuentes de alimentación para las cámaras CCTV:
 
