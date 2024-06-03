@@ -51,9 +51,9 @@ También tiene otras aplicaciones que no están necesariamente orientadas a la s
 
             * Utilizando la misma infraestructura en cableado coaxial existente para transmitir video digital desde cámaras IP.
             
-            * La migracion se hace más facil usando conectores como LR1002 de PoE a BNC que podemos ver en la imagen.   
+            * La migracion se hace más facil usando conectores como LR1002 de PoE a BNC. 
 
-            * Utiliza un XVR (eXtended Video Recorder) o un DVR/NVR híbrido que puede manejar ambas señales analógicas y digitales.
+            * Utiliza un XVR (eXtended Video Recorder) o un NVR híbrido que puede manejar ambas señales analógicas y digitales.
 
             * Combina cámaras analógicas y cámaras IP en un mismo sistema.
 
