@@ -1,4 +1,4 @@
-# Esta guía nos orientará en la materia de circuito cerrado de televison o CCTV.
+# Esta guía nos orientará en la materia de circuito cerrado de television o CCTV.
 
 ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/22212e16-d10b-4740-87e7-2f0cdcad309c)
 
