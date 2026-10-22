@@ -60,8 +60,4 @@ Despliegue de un servidor NAS virtualizado en Proxmox y configuración de sus pr
 
 **Áreas de trabajo:** redes, virtualización, almacenamiento, servicios de red y sistemas de videovigilancia.
 
----
-
-*Proyecto académico documentado mediante procedimientos de configuración y pruebas prácticas en un entorno virtualizado.*
-
 Aqui puedes ver de forma orientativa los objetivos de este proyecto [ProyectoTFG](TFG_RafaelNuñezVazquez.pdf)
