@@ -1,5 +1,9 @@
 # Proyecto de CCTV y almacenamiento en red con TrueNAS
 
+## Enlace
+
+[ProyectoTFG](TFG_RafaelNuñezVazquez.pdf)
+
 ## 📌 Descripción
 
 Este proyecto forma parte del ciclo formativo de **Administración de Sistemas Informáticos en Red (ASIR)** y se divide en dos bloques principales: el estudio de los sistemas de videovigilancia CCTV y la instalación y configuración de un servidor NAS mediante TrueNAS CORE.
