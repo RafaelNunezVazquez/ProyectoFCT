@@ -4,7 +4,7 @@ Aqui voy a mostrar brevemente los objetivos de este proyecto.
 Objetivos | Breve descripción 
 ---- | ----
 [Guia técnica CCTV](Guia_tecnicaCCTV.md) | Caracteristicas generales de dispositivos empleados en CCTV.
-[Guia técnica NAS](Guia_tecnicaNAS.md) | Caracteristicas generales del dispositivo NAS para almacenamiento compartido. 
+[ProyectoTFG](TFG_RafaelNuñezVazquez.pdf) | Caracteristicas generales del dispositivo NAS para almacenamiento compartido. 
 
 ![image](https://github.com/RafaelNunezVazquez/ProyectoFCT/assets/91255999/f4da35b9-5f55-4779-ad87-4cb62e03b6c7)
 
